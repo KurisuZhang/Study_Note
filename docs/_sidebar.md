@@ -1,0 +1,21 @@
+* **1\.Python库学习**
+    * [1.百度AI接口](./Python库学习/1.百度AI接口.md)
+    * [2.词云&分词&编码](./Python库学习/2.词云&分词&编码.md)
+    * [3.图像处理pillow](./Python库学习/3.图像处理pillow.md)
+    * [4.自动化pywin32](./Python库学习/4.自动化pywin32.md)
+    * [5.安卓uiautomator2](./Python库学习/5.安卓uiautomator2.md)
+    * [6.selenium爬虫](./Python库学习/6.selenium爬虫.md)
+    * [7.requests爬虫](./Python库学习/7.requests爬虫.md)
+* **2\.其他库学习**
+    * [1.docsify文档编写](./其他库学习/1.docsify文档编写.md)
+    * [2.git和github](./其他库学习/2.git和github.md)
+    * [3.Linux命令](./其他库学习/3.Linux命令.md)
+* **3\.环境搭建教程**
+    * [1.worldpress博客](./环境搭建教程/1.worldpress博客.md)
+    * [2.Aria2_Filebrowser_Docker](./环境搭建教程/2.Aria2_Filebrowser_Docker.md)
+    * [3.微软onedrive](./环境搭建教程/3.微软onedrive.md)
+    * [4.bbr&ssr&aria2&plex](./环境搭建教程/4.bbr&ssr&aria2&plex.md)
+    * [5.编译Lean OpenWrt](./环境搭建教程/5.编译Lean_OpenWrt.md)
+    * [6.python和Jupyter](./环境搭建教程/6.python和Jupyter.md)
+    * [7.mac terminal](./环境搭建教程/7.mac_terminal.md)
+    * [8.sublime text](./环境搭建教程/8.sublime_text.md)
