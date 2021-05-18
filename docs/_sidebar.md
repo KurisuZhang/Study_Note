@@ -6,7 +6,6 @@
     * [5.安卓uiautomator2](./Python库学习/5.安卓uiautomator2.md)
     * [6.selenium爬虫](./Python库学习/6.selenium爬虫.md)
     * [7.requests爬虫](./Python库学习/7.requests爬虫.md)
-    * [8.selenium爬虫](./Python库学习/6.selenium爬虫.md)
 * **2\.其他库学习**
     * [1.docsify文档编写](./其他库学习/1.docsify文档编写.md)
     * [2.git和github](./其他库学习/2.git和github.md)
