@@ -19,7 +19,7 @@
   {"key":"csp_appysv2_雨果影视","name":"雨果影视(M)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://123.youguo520.top/lvdou_api.php/v1.vod"},
   {"key":"csp_appysv2_青视频","name":"青视频(M)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://150.158.133.36:9904/qingdoujiekou.php/v1.vod"},
   {"key":"csp_appysv2_粉象视界","name":"粉象视界(M)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://42.157.129.15:34444/lvdou_api.php/v1.vod"},
-  {"key":"csp_appysv2_Hi影视","name":"Hi影视(M)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://114.132.251.111:999/lvdou_api.php/v1.vod"},
+  {"key":"csp_appysv2_Hi影视","name":"Hi影视(M)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://114.132.251.111:999/lvdou_api.php/v1.vod"}
 ],
 
   "lives":[
