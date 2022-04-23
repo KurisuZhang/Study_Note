@@ -207,6 +207,183 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "http://114.132.251.111:999/lvdou_api.php/v1.vod"
+		},
+		  {
+			"key": "csp_77",
+			"name": "七七",
+			"type": 3,
+			"api": "csp_Kunyu77",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
+			"key": "csp_Auete",
+			"name": "Auete(爬虫)",
+			"type": 3,
+			"api": "csp_Auete",
+			"searchable": 1,
+			"quickSearch": 0,
+			"filterable": 1
+		},
+		{
+			"key": "csp_xpath_lib",
+			"name": "LIBVIO(XP)",
+			"type": 3,
+			"api": "csp_XPathFilter",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://pastebin.com/raw/0YaMvPDA"
+		},
+		{
+			"key": "csp_xpath_ddg",
+			"name": "达达龟(XP)",
+			"type": 3,
+			"api": "csp_XPathFilter",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://pastebin.com/raw/Hf6Dpqgu"
+		},
+		{
+			"key": "csp_xpath_jbb",
+			"name": "剧白白(XP)",
+			"type": 3,
+			"api": "csp_XPathMacFilter",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://pastebin.com/raw/ZMV0SxYd"
+		},
+
+		{
+			"key": "csp_Cokemv",
+			"name": "Cokemv(爬虫)",
+			"type": 3,
+			"api": "csp_Cokemv",
+			"searchable": 1,
+			"quickSearch": 0,
+			"filterable": 1
+		},
+		{
+			"key": "csp_Enlienli",
+			"name": "嗯哩嗯哩(爬虫)",
+			"type": 3,
+			"api": "csp_Enlienli",
+			"searchable": 1,
+			"quickSearch": 0,
+			"filterable": 1
+		},
+		{
+			"key": "csp_appysv2_天空V2",
+			"name": "天空V2(M2)",
+			"type": 3,
+			"api": "csp_AppYsV2",
+			"searchable": 1,
+			"quickSearch": 0,
+			"filterable": 1,
+			"ext": "https://www.tkys.tv/xgapp.php/v2/"
+		},
+		{
+			"key": "csp_appysv2_天空",
+			"name": "天空(M2)",
+			"type": 3,
+			"api": "csp_AppYsV2",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://tkys.tv/xgapp.php/v1/"
+		},
+		{
+			"key": "csp_appysv2_迪迪",
+			"name": "迪迪(M2)",
+			"type": 3,
+			"api": "csp_AppYsV2",
+			"searchable": 1,
+			"quickSearch": 0,
+			"filterable": 1,
+			"ext": "http://dd88.icu:6080/xgapp.php/v2/"
+		},
+		{
+			"key": "csp_xpath_lezhutv",
+			"name": "乐猪TV(XPath)",
+			"type": 3,
+			"api": "csp_XPathMac",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "https://pastebin.com/raw/rnrsie0d"
+		},
+		{
+			"key": "csp_xpath_94sm",
+			"name": "94神马(XPath)",
+			"type": 3,
+			"api": "csp_XPath",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "https://pastebin.com/raw/4jXqSuGP"
+		},
+		{
+			"key": "csp_xpath_age",
+			"name": "AGE动漫(XPath)",
+			"type": 3,
+			"api": "csp_XPath",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "https://pastebin.com/raw/D4R6C0eE"
+		},
+		{
+			"key": "csp_xpath_jpyszl",
+			"name": "极品直链(XPath)",
+			"type": 3,
+			"api": "csp_XPathMac",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "https://pastebin.com/raw/gjwhe9Eq"
+		},
+		{
+			"key": "csp_xpath_tvci",
+			"name": "大师兄(XPath)",
+			"type": 3,
+			"api": "csp_XPath",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "https://pastebin.com/raw/9BazWb5G"
+		},
+		{
+			"key": "csp_xpath_duboku",
+			"name": "独播库(XPath)",
+			"type": 3,
+			"api": "csp_XPath",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "https://pastebin.com/raw/h6dMZvne"
+		},
+		{
+			"key": "csp_xpath_dm84",
+			"name": "动漫巴士(XPath)",
+			"type": 3,
+			"api": "csp_XPath",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "https://pastebin.com/raw/BZ135B3W"
+		},
+		{
+			"key": "csp_xpath_pianba",
+			"name": "Pianba(XPath)",
+			"type": 3,
+			"api": "csp_XPath",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "https://pastebin.com/raw/Amk8n2pC"
 		}
 	],
 
